@@ -7,7 +7,7 @@
 # Scope of the project
 - scope 1
 - scope 2
-- 
+ 
 # Technologies to be used
 - list all the tech used here
 
