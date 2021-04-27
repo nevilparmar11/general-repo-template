@@ -8,7 +8,7 @@
 - scope 1
 - scope 2
  
-# Technologies to be used
+# Technologies used
 - list all the tech used here
 
 # Documentation
